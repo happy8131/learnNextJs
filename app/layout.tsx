@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/global.css";
 import Navigation from "../components/navigation";
 import { Metadata } from "next";
 
